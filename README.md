@@ -1,4 +1,4 @@
-# Tailwind Icons In JS
+# Tailwind Colors In JS
 
 The colors in tailwind CSS are really nice and I always find myself copying them into my css in js projects so I have put them into a package so I can install it from npm and not copy paste. If you find it useful thats cool too.
 

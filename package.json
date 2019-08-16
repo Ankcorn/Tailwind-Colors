@@ -1,7 +1,8 @@
 {
-  "name": "tailwind-icons",
-  "version": "1.0.1",
+  "name": "tailwind-colors",
+  "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/Ankcorn/Tailwind-Colors.git",
   "license": "MIT",
   "scripts": {
     "prepublish": "npm version",
