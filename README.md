@@ -2,6 +2,23 @@
 
 The colors in tailwind CSS are really nice and I always find myself copying them into my css in js projects so I have put them into a package so I can install it from npm and not copy paste. If you find it useful thats cool too.
 
+## Getting started
+
+To install
+
+```
+yarn add tailwind-colors
+```
+
+
+```js
+import colors from 'tailwind-colors';
+
+console.log(colors.red[500]); // #ed8936
+
+```
+
+
   
 | gray  | Hex  |
   |---|---|
